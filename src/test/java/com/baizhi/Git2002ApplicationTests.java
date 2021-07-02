@@ -16,6 +16,6 @@ class Git2002ApplicationTests {
     void contextLoadss() {
         int a=10*5;
         int b=200-20;
-        System.out.println("s士大夫sf");
+        System.out.println(b);
     }
 }
